@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-     alert('TE AMO MUCHO')
+     alert('  👌 👈 😈')
 });
 
 const noBtn = document.querySelector('#noBtn');
